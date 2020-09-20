@@ -1,8 +1,7 @@
 # Notification-delivery-system
-### This project is a part of my system design practices. Focus of this project will be to design a resilient, scalable and distributed notification delivery system that can handle thousand to millions of request per second.
+This project is a part of my system design practices. Focus of this project will be to design a resilient, scalable and distributed notification delivery system that can handle thousand to millions of request per second.
 
----
-## Proposed system design
+### Proposed system design
 The system design diagram may be improved as per requirements.
 
 ![Notification-Delivery-System-Design](https://i.ibb.co/cXJ6sxj/notification-delivery-system.png)
@@ -11,11 +10,11 @@ The system design diagram may be improved as per requirements.
 
 ---
 
-Before starting to code a system we need to perform essential steps to be good at system deign.
-1. [System requirements](#)
-    - [Functional Requirements](#)
-    - [Non-Functional Requirements](#)
-    - [Capacity Estimation and Constraints](#)
+> Before starting to code a system we need to perform essential steps to be good at system deign.
+1. [System requirements](https://github.com/hardeeksharma/Notification-delivery-system-design/blob/master/system-requirements/README.md)
+    - Functional Requirements
+    - Non-Functional Requirements
+    - Capacity Estimation and Constraints
 2. [Security and Permissions](#)
 3. [System APIs](#)
 4. [Class Diagram](#)
