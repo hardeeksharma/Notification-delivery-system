@@ -24,5 +24,6 @@ The system design diagram may be improved as per requirements.
 4. [Class Diagram](#)
 5. [Code](#)
 ---
-### Credits
+### Credits & Resources
 - System design prototyping tool - Draw.io
+- System design xml for draw.io is added in the root directory.
