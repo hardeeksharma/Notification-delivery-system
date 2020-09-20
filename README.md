@@ -1,5 +1,9 @@
 # Notification-delivery-system
-This project is a part of my system design practices. Focus of this project will be to design a resilient, scalable and distributed notification delivery system that can handle thousand to millions of request per second.
+
+## System design inspiration
+One of my friend has a startup [Xenium Network](http://xeniumnetwork.com/), they are into affiliate markting, so one day my friend shared his requirement that they have some clients for which they run multiple advertising campaigns and now the want to send same notification to many number of users on different platforms like whatsapp, sms, email etc. Right now they were using 3rd party bulk mailing, sms solution that was costing them more than their profit. *They used to send 2-5 lakhs email+sms+whatsapp messages per day.* He asked me "Bro can we combine all these panels together". Then this system started to build.
+
+This project is a part of my system design practices. Focus of this project will be to design a resilient, scalable and distributed notification delivery system that can handle thousand to millions of request daily.
 
 ### Proposed system design
 The system design diagram may be improved as per requirements.
@@ -19,3 +23,6 @@ The system design diagram may be improved as per requirements.
 3. [System APIs](#)
 4. [Class Diagram](#)
 5. [Code](#)
+---
+### Credits
+- System design prototyping tool - Draw.io
