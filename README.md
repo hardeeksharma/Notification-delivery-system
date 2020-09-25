@@ -5,12 +5,12 @@ One of my friend has a startup [Xenium Network](http://xeniumnetwork.com/), they
 
 This project is a part of my system design practices. Focus of this project will be to design a resilient, scalable and distributed notification delivery system that can handle thousand to millions of request daily.
 
-### Proposed system design
+### Enhanced system design
 The system design diagram may be improved as per requirements.
 
-![Notification-Delivery-System-Design](https://i.ibb.co/cXJ6sxj/notification-delivery-system.png)
+![Notification-Delivery-System-Design](https://raw.githubusercontent.com/hardeeksharma/Notification-delivery-system-design/master/notification%20delivery%20system-enhancement.jpg)
 
-[Image Link](https://ibb.co/93nbdG7)
+[Image Link](https://raw.githubusercontent.com/hardeeksharma/Notification-delivery-system-design/master/notification%20delivery%20system-enhancement.jpg)
 
 ---
 
