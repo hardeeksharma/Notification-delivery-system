@@ -4,19 +4,19 @@ com/hardeek/sd/enums/NotificationType.java
  com.hardeek.sd.enums.NotificationType
 com/hardeek/sd/NotificationDeliverySystemApplication.java
  com.hardeek.sd.NotificationDeliverySystemApplication
-com/hardeek/sd/model/AuditModel.java
- com.hardeek.sd.model.AuditModel
+com/hardeek/sd/model/EmailNotification.java
+ com.hardeek.sd.model.EmailNotification
+com/hardeek/sd/model/sql/AuditModel.java
+ com.hardeek.sd.model.sql.AuditModel
+com/hardeek/sd/model/Notification.java
+ com.hardeek.sd.model.Notification
+com/hardeek/sd/model/sql/User.java
+ com.hardeek.sd.model.sql.User
 com/hardeek/sd/controller/UserController.java
  com.hardeek.sd.controller.UserController
 com/hardeek/sd/service/UserService.java
  com.hardeek.sd.service.UserService
 com/hardeek/sd/service/AuthenticationService.java
  com.hardeek.sd.service.AuthenticationService
-com/hardeek/sd/model/EmailNotification.java
- com.hardeek.sd.model.EmailNotification
 com/hardeek/sd/repository/UserRepository.java
  com.hardeek.sd.repository.UserRepository
-com/hardeek/sd/model/Notification.java
- com.hardeek.sd.model.Notification
-com/hardeek/sd/model/User.java
- com.hardeek.sd.model.User

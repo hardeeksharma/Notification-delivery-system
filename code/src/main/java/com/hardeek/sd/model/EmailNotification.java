@@ -3,7 +3,6 @@ package com.hardeek.sd.model;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 
-@Entity
 public class EmailNotification extends Notification {
 
     @Column(nullable = false)

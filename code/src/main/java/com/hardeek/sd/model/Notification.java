@@ -1,11 +1,11 @@
 package com.hardeek.sd.model;
 
+import com.hardeek.sd.model.sql.AuditModel;
+
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.MappedSuperclass;
 
-@MappedSuperclass
 public class Notification extends AuditModel {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
